@@ -2,15 +2,16 @@
 #### My name is Levko,
 I am a recent computer engineering graduate with specializations in Embedded Systems and Software Engineering.
 
-<!-- 
+
 ## Skills
-### Embedded
+![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,tailwind,nodejs,next,supabase,postgres,mysql,figma,docker&theme=dark)
+### 💻 Embedded Systems Design
 * C, C++
 * FreeRTOS, Azure RTOS ThreadX, Zephyr
 * Espressif, nRF, STM32, Atmel
 * Platformio, STM32Cube
 
-### Web Development
+### 🌐 Web Development
 * Javascript, Typescript, HTML, CSS
 * ReactJS, React-router, React-Query
 * NextJS, NodeJS, Vite
@@ -18,14 +19,21 @@ I am a recent computer engineering graduate with specializations in Embedded Sys
 * Figma
 * Vercel, Netlify, Heroku
 
-### Hardware
-* Autodesk Fusion360: Modeling and PCB design.
-* CAD for 3D Printing
+### ⚙️ Hardware
+* Autodesk Fusion360: CAD/EDA.
+* 3D Printing
+* PCB Design
+* Hardware Prototyping
+* Test Equipment
 * Verilog for Altera FPGA
-* Digital hardware design
- -->
 
-## Skills
+<details closed>
+<summary>GitHub Stats</summary>
+<br>
+Well, you asked for it!
+</details>
+
+<!-- 
 ### 💻 Embedded Systems Design
 - FreeRTOS, Azure RTOS ThreadX, Zephyr
 - Espressif, nRF, STM32, Atmel
@@ -54,7 +62,7 @@ I am a recent computer engineering graduate with specializations in Embedded Sys
 * Autodesk Fusion360: 3D CAD Modeling
 * 3D Printing
 * Hardware Prototyping (breadbording)
-* Test Equipment
+* Test Equipment -->
 
 <!-- 
 ### Misc
