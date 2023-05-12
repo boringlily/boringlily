@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### My name is Levko,
-I am a recent computer engineering graduate with specializations in Embedded Systems and Software Engineering.
-
+I am a recent computer engineer graduate with an interest in embedded systems and web technologies.
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,tailwind,nodejs,next,supabase,postgres,mysql,figma,docker&theme=dark)
@@ -29,8 +28,9 @@ I am a recent computer engineering graduate with specializations in Embedded Sys
 
 <details closed>
 <summary>GitHub Stats</summary>
-<br>
-Well, you asked for it!
+<br>  
+ 
+ ![Lily's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkonikitin&show_icons=true&theme=swift)
 </details>
 
 <!-- 
