@@ -1,6 +1,8 @@
 ### Hi there 👋
-#### My name is Levko,
+#### My name is Levko, <!--My preferred Name is actually Lily, but too many people said that it wasn't professional to have a preffered name on my git-->
 I am a recent computer engineer graduate with an interest in embedded systems and web technologies.
+
+Currently working on my [QuarkChat](https://github.com/levkonikitin/quarkchat) app to learn more about proper PostgreSQL setup and authentication management.
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,tailwind,nodejs,next,supabase,postgres,mysql,figma,docker&theme=dark)
