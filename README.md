@@ -32,7 +32,7 @@ Currently working on my [QuarkChat](https://github.com/levkonikitin/quarkchat) a
 <summary>GitHub Stats</summary>
 <br>  
  
- ![Lily's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkonikitin&show_icons=true&theme=swift)
+ ![Lily's GitHub stats](https://github-readme-stats.vercel.app/api?username=beecurious&show_icons=true&theme=swift)
 </details>
 
 <!-- 
