@@ -25,10 +25,3 @@ I am an embedded software engineer working on really fun stuff.
 * Hardware Prototyping
 * Test Equipment
 * Verilog for Altera FPGA
-
-<details closed>
-<summary>GitHub Stats</summary>
-<br>  
- 
- ![Lily's GitHub stats](https://github-readme-stats.vercel.app/api?username=beecurious&show_icons=true&theme=swift)
-</details>
