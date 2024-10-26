@@ -7,7 +7,7 @@
 - Computational Geometry and how it relates to the design of CAD and Slicer software.
 ## Here are some of the skills I have learned from work and personal curiosity:
 ### 💻 Embedded Software Development
-![My Skills](https://skillicons.dev/icons?i=c,cpp&theme=light)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake&theme=dark)
 * Embedded architectures I know: ARMv7-M, ARMv8-M, xtensa lx6, xtensa lx7, 
 * MCU brands I have worked with: ESP, nRF, Infenion, TI
 * RTOS Expenrience: Baremetal(Timers and Interupts), FreeRTOS, Zephyr
