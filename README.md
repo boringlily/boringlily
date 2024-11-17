@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Lily,
-- I currently work at Curtis Instruments, where I work on embedded motor control firmware and lead the development of a standalone device for CAN-based vehicle diagnostics and maintenance. 
+- I currently work at Curtis Intstruments, where I develop embedded motor control firmware and lead an engineering project focused on creating a standalone device for CAN-based vehicle diagnostics and maintenance.
 #### My current fascinations and projects:
 - Ergonomic keyboard design, and custom firmware as the existing options feel like a compromise.
 - Computational Geometry such as parametric 3D CAD and 3D printer Slicer software.
