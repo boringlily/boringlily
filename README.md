@@ -1,9 +1,5 @@
-### Hi there 👋
-#### My name is Lily,
-- I currently work at Curtis Intstruments, where I develop embedded motor control firmware and lead an engineering project focused on creating a standalone device for CAN-based vehicle diagnostics and maintenance.
-#### My current fascinations and projects:
-- Ergonomic keyboard design, and custom firmware as the existing options feel like a compromise.
-- Computational Geometry such as parametric 3D CAD and 3D printer Slicer software.
+### Hi, My name is Lily,
+- I am an embedded software engineer @ Curtis Intstruments where I develop embedded motor control firmware, firmware for CAN enabled in-the-field maintenance devices and other high performance communications software
 ## Here are some of the skills I have learned from work and personal curiosity:
 ### 💻 Embedded Software Development
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python&theme=dark)
