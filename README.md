@@ -1,5 +1,5 @@
 # Hi, my name is Lily,
-##I am an embedded software engineer @ Curtis Intstruments:
+### I am an embedded software engineer @ Curtis Intstruments:
 - Develop embedded motor controller firmware.
 - Lead for an embedded fieldaq maintainence-tool project.
 - Develop high-throughput CAN device communications systems.
