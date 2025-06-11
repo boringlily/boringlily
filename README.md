@@ -1,7 +1,7 @@
 # Hi, my name is Lily,
 ### I am an embedded software engineer @ Curtis Intstruments:
 - Develop embedded motor controller firmware.
-- Lead for an embedded fieldaq maintainence-tool project.
+- Lead for a standalone maintainence-tool for our CAN based controllers.
 - Develop high-throughput CAN device communications systems.
 ## My Personal Interests:
 - 3D Printing FDM, SLA, SLS
